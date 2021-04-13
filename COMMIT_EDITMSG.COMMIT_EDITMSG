@@ -1,0 +1,26 @@
+adicionado estrutura arquivos
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..4f0949a
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1,14 @@
++<!DOCTYPE html>
++<html>
++<head>
++	<title>Hello World!</title>
++	<meta charset="utf-8">
++</head>
++<body>
++	<h1>Bem vindo!</h1>
++	<ul>
++		<li>Item um</li>
++		<li>Item dois</li>
++	</ul>
++</body>
++</html>
